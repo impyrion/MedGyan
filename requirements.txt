@@ -1,0 +1,30 @@
+streamlit
+groq
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchain-qdrant
+langchain-groq
+qdrant-client
+sentence-transformers
+transformers
+torch
+sentencepiece
+langchain-text-splitters
+pysbd
+# v1.5 additions
+redis
+langfuse
+ragas
+datasets
+pytest
+
+# v2.0 additions
+docling
+langchain-docling
+rank_bm25
+tenacity
+tqdm
+google-generativeai
+langchain-google-vertexai

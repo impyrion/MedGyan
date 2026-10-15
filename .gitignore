@@ -1,0 +1,22 @@
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+QAMed_Architecture_Roadmap.md
+agents.md
+.tmp/
+credentials.json
+token.json
+PROJECT_OVERVIEW.md
+CLAUDE.md
+notes.md
+info.md
+context.md
+
+# Keep notes local
+notes.md
+
+docs/
