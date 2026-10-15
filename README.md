@@ -1,5 +1,5 @@
 ---
-title: QAMED CHATBOT
+title: MedGyan
 emoji: 🏥
 colorFrom: blue
 colorTo: indigo
